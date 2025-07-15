@@ -4,7 +4,7 @@ export default function About() {
       <h1 className="text-3xl font-bold mb-4 text-purple-800">About BitLinks</h1>
       <p className="text-gray-700 text-lg mb-4">
         BitLinks was built with simplicity and privacy in mind. Unlike other URL
-        shorteners, we don't track your clicks, require signups, or ask for
+        shorteners, we do not track your clicks, require signups, or ask for
         your personal info.
       </p>
       <p className="text-gray-700 text-lg">
